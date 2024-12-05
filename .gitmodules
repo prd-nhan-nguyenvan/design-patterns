@@ -1,3 +1,6 @@
 [submodule "observer"]
 	path = observer
 	url = ./observer/
+[submodule "adapter"]
+	path = adapter
+	url = ./adapter/
